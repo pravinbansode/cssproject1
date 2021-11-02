@@ -10,12 +10,27 @@
  .task0{
     padding-top: 10%;
     padding-left: 10%;
-    font-size: 30px; 
+    font-size: 20px; 
 }
 .fa{
     color: red;
-    font-size: 20px;
+    font-size: 15px;
 }
+.t1{
+    font-size: 50px;
+
+  
+}
+.t2{
+    font-family: 'Courier New', Courier, monospace;
+    
+    font-size: 40px;
+  
+}
+.task1:hover{
+    transform:translate(2px, 2px);
+}
+
   
     
  
@@ -35,6 +50,7 @@
     line-height: 30px;
     color: red;
    word-spacing: 5px;
+   box-shadow: 5px 5px 10px gray;
   
    
 }
@@ -43,6 +59,7 @@
     width: 700px;
     background-color:white(37, 34, 34, 0.199);
     border: 2px solid black(255, 255, 255, 0.288);
+    
 }
 .c{
     height: 200px;
@@ -57,7 +74,13 @@
     line-height: 30px;
     color: red;
    word-spacing: 5px;
+   box-shadow: 5px 5px 10px gray;
    
+ }
+ .c1{ 
+    margin-top:30% ;
+    margin-left: 30%;
+
  }
  img{
      height: 100px;
@@ -99,6 +122,7 @@
      color: red;
      font-weight: bold;
      font-size: 25px;
+     background-color: white;
 
 
   
